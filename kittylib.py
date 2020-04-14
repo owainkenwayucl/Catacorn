@@ -29,3 +29,16 @@ def left_eye(colour):
 
 def right_eye(colour):
 	eyes[0] = colour
+
+dark_red = (10,0,0)
+red = (255,0,0)
+
+dark_blue = (0,0,10)
+blue = (0,0,255)
+
+dark_green = (0,10,0)
+green = (0,255,0)
+
+white = (255,255,255)
+dark_white = (10,10,10)
+black = (0,0,0)
