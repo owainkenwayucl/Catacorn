@@ -14,8 +14,15 @@ kl.left_eye(255,0,0)
 
 ## main.py
 
+Loaded by CircuitPython on boot.  Edit to make it load + execute the appropriate example.  Defaults to metronome.
+
+## orig.py
+
 A version of @MermaidAllie's `main.py` which uses kittylib.
 
+## metronome.py
+
+A simple metronome.  Ears cycle frequency and time signiture.
 
 ## pi.py
 
